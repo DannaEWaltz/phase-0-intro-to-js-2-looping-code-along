@@ -3,13 +3,13 @@
 ## Tech Stack
 DannaEWaltz/phase-0-intro-to-js-2-looping-code-along is built on the following main stack:
 
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
 - [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -19,13 +19,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 DannaEWaltz/phase-0-intro-to-js-2-looping-code-along is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DannaEWaltz/phase-0-intro-to-js-2-looping-code-along](https://github.com/DannaEWaltz/phase-0-intro-to-js-2-looping-code-along)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|13<br/>Tools used|02/02/24 <br/>Report generated|
+|13<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
